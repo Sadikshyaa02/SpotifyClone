@@ -1,3 +1,13 @@
+
+# React + Vite    # SpotifyClone
+
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/2ecd873d-c416-41d5-8287-ee3f68f8b250" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/25c91b5b-7e37-4837-b39d-199a84382408" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2fb38acf-7634-4ee4-b42b-294eb8f26b71" />
+
+
+
 <<<<<<< HEAD
 # React + Vite
 
